@@ -254,11 +254,11 @@ display:block;
 }
 
 #pool {
-    width:600px;
-	height:200px;
-	background: #C9DAF7;
-	margin-left: 33%;
-    bottom:-160%;
+    width:200px;
+    height:95px;
+    background: #C9DAF7;
+    margin-left: 15%;
+    bottom:-150%;
     position:absolute;
            -webkit-transition: all 0.5s ease;
       -moz-transition: all 0.5s ease;
@@ -267,8 +267,8 @@ display:block;
 }
 
 #pool:hover {
-	 width:620px;
-	height:220px;
+     width:220px;
+    height:100px;
 }
 #photoprogram{
 	background-color:#FFF2CC;
